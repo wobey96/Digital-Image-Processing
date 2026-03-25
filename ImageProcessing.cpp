@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <iostream>
 
-
+// Hello World
 ImageProcessing::ImageProcessing(const char* _inImgName, const char* _outImgName, int* _height, int* _width, int* _bitDepth, unsigned char*  _header, unsigned char* _colorTable, unsigned char* _inBuf, unsigned char* outBuf)
 {
     // Constructor
